@@ -1,3 +1,6 @@
+git commit -m "Remove .DS_Store from everywhere"
+git push origin master
+.DS_Store
 
 # Logs
 logs
